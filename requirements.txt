@@ -1,4 +1,6 @@
-discord.py==1.7.3
+git+https://github.com/Rapptz/discord.py
+git+https://github.com/Pycord-Development/pycord
 youtube_dl==2021.12.17
 configparser==5.2.0
 asyncio==3.4.3
+PyNaCl==1.5.0
