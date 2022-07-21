@@ -1,0 +1,4 @@
+discord.py==1.7.3
+youtube_dl==2021.12.17
+configparser==5.2.0
+asyncio==3.4.3
